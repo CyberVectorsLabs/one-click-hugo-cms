@@ -1,6 +1,6 @@
 ---
 title: "Crafting a Better Tomorrow"
-subtitle: An Artisan's Journey Towards Empowerment, Heritage Preservation, and Global Connectivity
+subtitle: Bringing India’s rural craftsmanship to the world—one artisan, one craft, one story at a time.
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Ikaai?
