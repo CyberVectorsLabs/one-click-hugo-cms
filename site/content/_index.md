@@ -1,20 +1,20 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Crafting a Better Tomorrow"
+subtitle: An Artisan's Journey Towards Empowerment, Heritage Preservation, and Global Connectivity
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Ikaai?
+    text: "empowering rural artisans, preserving heritage, and connecting them to a global market. We source all of our products directly from artisans and ethical sustainable sources and make sure upto 50% part of the profits are reinvested in their communities"
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "Ikaai offers unique handcrafted products that are steeped in history and tradition, made by artisans who pour their heart and soul into every creation. Our platform connects artisans directly with consumers, cutting out the middleman to ensure fair compensation for their craft. With each purchase, you are not just buying a product, you are supporting the livelihoods of artisans, preserving cultural heritage, and contributing to a sustainable and ethical marketplace."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "Handwoven on traditional looms, Mubarakpur silk sarees showcase the intricate craftsmanship of the weavers. Each saree is a symbol of heritage, featuring kadhua motifs, detailed zari borders, and timeless elegance that merges cultural richness with modern appeal."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Made from Moonj grass found in the wetlands of Eastern Uttar Pradesh, these eco-friendly baskets are a testament to the weaving skills of the local artisans. Used for both practical and decorative purposes, these baskets reflect the region's unique craftsmanship and sustainable practices."    
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: India’s craftsmanship faces exploitation and fading traditions. At Ikaai, we are changing that by empowering artisans, preserving heritage, and ensuring fair wages. Our mission is to create a sustainable, ethical marketplace where artisans thrive, and their craft is celebrated globally. We believe in the power of commerce to drive social change, honoring tradition while shaping a fairer future.
 ---
 
